@@ -2,6 +2,6 @@
 {
     public enum EnumTypeOperation
     {
-        Subtraction, Addition, Multiplication
+        Subtraction, Addition
     }
 }
